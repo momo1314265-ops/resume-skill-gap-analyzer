@@ -1,0 +1,17 @@
+# Python venv
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database file (optional, some keep it, some ignore)
+# jobs.db
+
+# VS Code config
+.vscode/
+*.log
+.DS_Store
+
+# Temp files
+*.tmp
